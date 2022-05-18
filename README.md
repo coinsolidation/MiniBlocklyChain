@@ -122,7 +122,7 @@ On mobile phones do not use a maximum difficulty of 5 as the system may lock up 
 
 More information.
 
-www.openqbit.com & www.coinsolidation.org
+www.coinsolidation.org
 
 Developments launched in Estonia 2020-2021.
 
